@@ -1,1 +1,1 @@
-worker: java -jar target/magic.jar
+worker: sh target/bin/worker
